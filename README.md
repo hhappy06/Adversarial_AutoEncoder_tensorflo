@@ -8,4 +8,4 @@ My practice about AAE ([Adversarial Autoencoders](https://arxiv.org/abs/1511.056
 > One could find the result picture at './result/test.png'
 
 ##Result
-![image](http://github.com/hhappy06/Adversarial_AutoEncoder_tensorflow/raw/master/result/test.png)
+![image](http://github.com/hhappy06/Adversarial_AutoEncoder_tensorflo/raw/master/result/test.png)
